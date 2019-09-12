@@ -1,0 +1,12 @@
+{
+    "name": "dedegunawan/telp-sync-client",
+    "description": "Telp Sync Client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dede Gunawan",
+            "email": "dede@unsil.ac.id"
+        }
+    ]
+}
