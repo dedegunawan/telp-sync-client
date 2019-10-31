@@ -13,5 +13,8 @@
         "psr-4": {
             "DedeGunawan\\TelpSyncClient\\": "src/"
         }
+    },
+    "require": {
+        "dedegunawan/utility-class": "^0.1.7"
     }
 }
