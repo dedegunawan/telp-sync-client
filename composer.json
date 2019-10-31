@@ -8,5 +8,10 @@
             "name": "Dede Gunawan",
             "email": "dede@unsil.ac.id"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "DedeGunawan\\TelpSyncClient": "src/"
+        }
+    },
 }

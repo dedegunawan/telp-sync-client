@@ -16,11 +16,13 @@ $client->setSecretKey('unsil');
 $client->setApiUrl('https://pmb.unsil.ac.id/telp/sync/');
 
 $params = new \DedeGunawan\TelpSyncClient\Params([]);
+
+
 $params->setIdJadwal('32');
 $params->setTanggal('2019-03-28');
 $params->setJamMulai('13:30:00');
 $params->setJamSelesai('15:30:00');
-$params->setIdRuangan('22');
+//$params->setIdRuangan('22');
 $params->setRuangan([
     'id_ruangan' => 22,
     "nama_ruangan" => "01",
