@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "DedeGunawan\\TelpSyncClient": "src/"
+            "DedeGunawan\\TelpSyncClient\\": "src/"
         }
     }
 }
